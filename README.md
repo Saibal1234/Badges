@@ -1,2 +1,2 @@
 # Badges
-Its for earning badges
+Its for earning badges.
